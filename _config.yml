@@ -60,7 +60,9 @@ plugins:
 author:
   name   : "Ismael Rodríguez"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "🥋 Karateka de corazón | 🤖 IA Manager de profesión |📓 Mentor por pasión."
+  bio    : "- 🥋 Karateka de corazón
+  - 🤖 IA Manager de profesión 
+  - 📓 Mentor por pasión."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
