@@ -60,33 +60,32 @@ plugins:
 author:
   name   : "Ismael Rodríguez"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "🥋 Karateka de corazón | 🤖 IA Manager de profesión | 📓 Mentor por pasión."
+  bio    : "🥋 Karateka de corazón | 🤖 IA Manager de profesión |📓 Mentor por pasión."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://"
-    - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin-square"
-      url: "https://www.linkedin.com/in/ismael-rodr%C3%ADguez-fdez/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/ismael-sensei"
+      url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/ismael.sensei/
+      url: "https://instagram.com/"
 
 footer:
   links:
-    - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin-square"
-      url: "https://www.linkedin.com/in/ismael-rodr%C3%ADguez-fdez/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/ismael-sensei"
+      url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/ismael.sensei/
-
+      url: "https://instagram.com/"
 
 defaults:
   # _posts
