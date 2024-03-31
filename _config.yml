@@ -66,12 +66,9 @@ author:
 📓 Mentor por pasión\n\n
 "
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "LinkedIn"
+      icon: "fa-brands fa-linkedin"
+      url: "https://www.linkedin.com/in/ismael-rodríguez-fdez"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
