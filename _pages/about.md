@@ -3,6 +3,11 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+## Experiencia profesional
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+| Año            | Posición                                         | Compañía/Institución                                         | Descripción                                                       |
+|----------------|--------------------------------------------------|--------------------------------------------------------------|-------------------------------------------------------------------|
+| 2021-actual    | Gestor de equipos de Inteligencia Artificial    | ES Field Delivery Spain, DXC Technology                      | Gestión de personal en proyectos de IA                            |
+| 2016 – 2021    | Ingeniero de Datos e Inteligencia Artificial    | ES Field Delivery Spain, DXC Technology                      | Soluciones en data mining, big data, BI en sectores variados      |
+| 2012 - 2015    | Investigador FPU                                | Centro Singular de Investigación en Tecnoloxías da Información (CITIUS) | Tesis sobre aprendizaje evolutivo de reglas difusas para regresión |
+| 2009 - 2011    | Investigador contratado                         | Depto. de Electrónica y Computación, Univ. de Santiago de Compostela | Desarrollo en aprendizaje automático con programación genética    |
